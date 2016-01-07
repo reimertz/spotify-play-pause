@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3",
-    "jade": "^1.11.0",
+    "johnny-five": "^0.9.17",
     "spotify-node-applescript": "^0.2.2"
   }
 }
